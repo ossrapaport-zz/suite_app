@@ -9,6 +9,7 @@ for (var i = 0; i < totalNum; i++) {
   num1 = num2;
   num2 = nextNum; 
   console.log("Fib " + i + ": " + nextNum);
+
 }
 
 console.log("Fin");
