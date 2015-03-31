@@ -1,7 +1,7 @@
-var x = 0;
-var y = 1;
-var next;
-var n = 10;
+var num1 = 0;
+var num2 = 1;
+var nextNum;
+var totalNum = 10;
 
 for (var i = 0; i < n; i++) {
   next = x + y;
